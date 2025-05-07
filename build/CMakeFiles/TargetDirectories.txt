@@ -1,0 +1,3 @@
+/home/mikayel/CLionProjects/MouseTracker/build/CMakeFiles/MouseTracker.dir
+/home/mikayel/CLionProjects/MouseTracker/build/CMakeFiles/edit_cache.dir
+/home/mikayel/CLionProjects/MouseTracker/build/CMakeFiles/rebuild_cache.dir
